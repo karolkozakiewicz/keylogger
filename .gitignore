@@ -1,0 +1,7 @@
+.idea/
+Lib/
+Scripts/
+__pycache__/
+brudnopis.py
+pyvenv.cfg
+pywin32/
